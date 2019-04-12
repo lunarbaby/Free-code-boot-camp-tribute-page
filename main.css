@@ -1,0 +1,38 @@
+body{
+    background-color: purple;
+    color: white;
+  }
+  
+  h1{
+    text-align: center;
+    font-weight: bold;
+  }
+
+  #img-div {
+    width:100%;
+  }
+  
+  img{
+    border-width: 6px;
+    border-style: solid;
+    max-width: 100%;
+    height: auto;
+    margin-left: 300px ;
+    display:block;
+  }
+  
+  div{
+    text-align: center;
+  }
+  
+  h2{
+    text-align: center;
+  }
+  
+  h3{
+    text-align: center;
+  }
+  
+  ul{
+    list-style-type: none;
+  }
